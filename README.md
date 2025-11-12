@@ -103,7 +103,7 @@ The tool is under the CC0 public domain licence.
 
 ## Citation
 
-Ben Aribi, H., Ayadi, F., Naitore, C., Guerbouj, S. & Awe, O. I. EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes. Zenodo. https://doi.org/10.5281/zenodo.16881955
+Hiba Ben Aribi,Careen Naitore,Farah Ayadi,Souheila Guerbouj,Olaitan I. Awe,EMImR: a Shiny application for identifying transcriptomic and epigenomic changes,Gigabyte,2025 https://doi.org/10.46471/gigabyte.168
 
 ## Note
 Tool Developer / Maintainer: Hiba Ben Aribi
